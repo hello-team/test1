@@ -1,0 +1,17 @@
+.footer {
+    width: 100%;
+    color: #999999;
+    order: 9999;
+    padding: 32px 0;
+    font-size: 12px;
+    line-height: 16px;
+    margin-bottom: 16px;
+}
+
+.footer--border-bottom {
+    border-top: 1px solid #E6E6E6;
+}
+
+.footer--disclaimer {
+    margin: 0;
+}
